@@ -1968,6 +1968,9 @@ https://stm8.painelcast.com:6982/stream
 #EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png.png" group-title="RÁDIO",Rádio Muriaé Play
 https://stream.zeno.fm/d42wceognggtv.m3u3
 
+#EXTINF:-1 tvg-logo=https://mapim.home.blog/wp-content/uploads/2024/11/logo-removebg-preview-1.png" group-title="RÁDIO",MAPIM WebRádio
+https://stream-152.zeno.fm/7wbprc3ce4qvv
+
 ############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://imgur.com/s4pf0PF.png" group-title="Canais | VARIEDADES",Salon line
